@@ -21,12 +21,12 @@ body {
    text-align: center;
 }
 #inner_clock {
-   font-size: 70px;
+   font-size: 60px;
    font-family: "Roboto", sans-serif;
 }
 #btn_container {
    display: block;
-   width: 80%;
+   width: 100%;
    margin: auto;
    margin-top: 10px;
    margin-bottom: 10px;
