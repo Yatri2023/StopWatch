@@ -6,7 +6,7 @@ body {
    height: 100%;
 }
 #main {
-   width: 80%;
+   width: 90%;
    height: 60%;
    padding: 5px;
    margin: auto;
@@ -21,7 +21,7 @@ body {
    text-align: center;
 }
 #inner_clock {
-   font-size: 90px;
+   font-size: 80px;
    font-family: "Roboto", sans-serif;
 }
 #btn_container {
